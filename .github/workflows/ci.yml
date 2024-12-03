@@ -1,5 +1,7 @@
 name: IronHack CI - Lab 7
 
+run-name: CI Lab - @${{ github.actor }}
+
 # Objective 1: Trigger Conditions
 on:
   push:
